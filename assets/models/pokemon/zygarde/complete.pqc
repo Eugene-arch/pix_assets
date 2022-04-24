@@ -1,0 +1,4 @@
+$body complete/zygarde-complete.bmd
+$anim walk complete/walk.bmd
+$anim idle complete/idle.bmd
+$scale 3.5

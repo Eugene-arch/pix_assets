@@ -1,0 +1,4 @@
+$body hisuian/electrode.bmd
+$anim walk hisuian/walk.bmd
+$anim idle hisuian/idle.bmd
+$scale 0.34

@@ -1,0 +1,5 @@
+$body solo/wishiwashi.bmd
+$anim walk solo/swim.bmd
+$anim swim solo/swim.bmd
+$anim idle solo/idle.bmd
+$scale 0.32

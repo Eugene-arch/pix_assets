@@ -1,0 +1,4 @@
+$body lowkey/toxtricity.bmd
+$anim walk lowkey/walk.bmd
+$anim idle lowkey/idle.bmd
+$scale 1.5

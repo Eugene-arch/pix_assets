@@ -1,0 +1,4 @@
+$body hisuian/braviary.bmd
+$anim walk hisuian/walk.bmd
+$anim idle hisuian/idle.bmd
+$scale 4.5

@@ -1,0 +1,5 @@
+$body normal/deoxys.bmd
+$anim walk normal/walk.bmd
+$anim idle normal/idle.bmd
+$anim fly normal/walk.bmd
+$scale 2.2

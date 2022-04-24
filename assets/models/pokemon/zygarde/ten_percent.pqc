@@ -1,0 +1,4 @@
+$body ten_percent/zygarde-10%.bmd
+$anim walk ten_percent/walk.bmd
+$anim idle ten_percent/idle.bmd
+$scale 2.6

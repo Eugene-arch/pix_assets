@@ -1,0 +1,4 @@
+$body pichuspiky.bmd
+$anim idle idlespiky.bmd
+$anim walk walkspiky.bmd
+$scale 1.5

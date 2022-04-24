@@ -1,0 +1,4 @@
+$body fifty_percent/zygarde.bmd
+$anim walk fifty_percent/walk.bmd
+$anim idle fifty_percent/idle.bmd
+$scale 4.5

@@ -1,0 +1,4 @@
+$body galar/articuno.bmd
+$anim idle galar/idle.bmd
+$anim walk galar/walk.bmd
+$scale 2.2

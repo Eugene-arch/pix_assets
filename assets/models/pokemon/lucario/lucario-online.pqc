@@ -1,0 +1,4 @@
+$body online/lucario.bmd
+$anim idle online/idle.bmd
+$anim walk online/walk.bmd
+$scale 2.5

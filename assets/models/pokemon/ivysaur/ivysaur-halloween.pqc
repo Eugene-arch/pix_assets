@@ -1,0 +1,4 @@
+$body halloween/ivysaur.bmd
+$anim walk halloween/walk.bmd
+$anim idle halloween/idle.bmd
+$scale 0.8

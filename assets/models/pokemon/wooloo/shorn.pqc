@@ -1,0 +1,4 @@
+$body shorn/wooloo.bmd
+$anim idle shorn/idle.bmd
+$anim walk shorn/walk.bmd
+$scale 1.6

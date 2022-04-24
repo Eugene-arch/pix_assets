@@ -1,0 +1,4 @@
+$body online/cinderace.bmd
+$anim idle online/idle.bmd
+$anim walk online/walk.bmd
+$scale 1.8

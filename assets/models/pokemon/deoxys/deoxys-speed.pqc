@@ -1,0 +1,5 @@
+$body speed/deoxys.bmd
+$anim walk speed/walk.bmd
+$anim idle speed/idle.bmd
+$anim fly speed/walk.bmd
+$scale 2.4

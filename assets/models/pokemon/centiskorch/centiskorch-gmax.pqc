@@ -1,0 +1,3 @@
+$body gmax/centiskorch.bmd
+$anim idle gmax/idle.bmd
+$scale 1.0

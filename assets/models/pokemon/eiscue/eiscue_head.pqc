@@ -1,0 +1,4 @@
+$body head/eiscue_head.bmd
+$anim idle head/idle.bmd
+$anim walk head/walk.bmd
+$scale 2.8

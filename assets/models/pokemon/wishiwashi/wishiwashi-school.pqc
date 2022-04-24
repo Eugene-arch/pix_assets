@@ -1,0 +1,5 @@
+$body school/wishiwashi.bmd
+$anim walk school/idle.bmd
+$anim swim school/idle.bmd
+$anim idle school/idle.bmd
+$scale 5.0

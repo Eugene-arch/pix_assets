@@ -1,0 +1,5 @@
+$body galar/stunfisk.bmd
+$anim special galar/crunch.bmd
+$anim walk galar/walk.bmd
+$anim idle galar/idle.bmd galar/idle.bmd galar/idle.bmd galar/idle.bmd galar/idle.bmd galar/crunch.bmd
+$scale 1.2

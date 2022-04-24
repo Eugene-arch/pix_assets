@@ -1,0 +1,5 @@
+$body hisuian/arcanine.bmd
+$anim walk hisuian/walk.bmd
+$anim idle hisuian/idle.bmd hisuian/idle.bmd hisuian/idle.bmd hisuian/special.bmd
+$anim special hisuian/special.bmd
+$scale 6.0

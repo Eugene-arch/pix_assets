@@ -1,0 +1,5 @@
+$body hisuian/braviary-flying.bmd
+$anim walk hisuian/fly.bmd
+$anim idle hisuian/fly.bmd
+$anim flying hisuian/fly.bmd
+$scale 4.5

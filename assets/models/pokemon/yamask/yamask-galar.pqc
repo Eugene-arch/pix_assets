@@ -1,0 +1,4 @@
+$body galar/yamask.bmd
+$anim walk galar/walk.bmd
+$anim idle galar/idle.bmd
+$scale 0.35

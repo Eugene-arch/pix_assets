@@ -1,0 +1,5 @@
+$body attack/deoxys.bmd
+$anim walk attack/walk.bmd
+$anim idle attack/idle.bmd
+$anim fly attack/walk.bmd
+$scale 1.7

@@ -1,0 +1,7 @@
+{
+	"parent": "pixelmon:block/mailbox/mailbox_closed",
+	"textures": {
+		"particle": "pixelmon:blocks/mailbox/mailbox_cyan",
+		"mailbox": "pixelmon:blocks/mailbox/mailbox_cyan"
+	}
+}

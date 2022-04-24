@@ -1,0 +1,121 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "particle": "pixelmon:blocks/workplace_white_monitor",
+        "workplace_monitor": "pixelmon:blocks/workplace_white_monitor",
+        "workplace": "pixelmon:blocks/workplace_white_mk"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "keyboard",
+            "from": [ 0, 0, 10 ], 
+            "to": [ 12, 1, 15 ], 
+            "faces": {
+                "north": { "texture": "#workplace", "uv": [ 0, 10, 12, 11 ] },
+                "east": { "texture": "#workplace", "uv": [ 12, 11, 13, 16 ], "rotation": 90 },
+                "south": { "texture": "#workplace", "uv": [ 0, 4, 12, 5 ] },
+                "west": { "texture": "#workplace", "uv": [ 12, 5, 13, 10 ], "rotation": 90 },
+                "up": { "texture": "#workplace", "uv": [ 0, 11, 12, 16 ] },
+                "down": { "texture": "#workplace", "uv": [ 0, 5, 12, 10 ] }
+            }
+        },
+        {
+            "name": "mouse",
+            "from": [ 14, 0, 11 ], 
+            "to": [ 16, 1, 14 ], 
+            "faces": {
+                "north": { "texture": "#workplace", "uv": [ 13, 12, 15, 13 ] },
+                "east": { "texture": "#workplace", "uv": [ 15, 13, 16, 16 ], "rotation": 90 },
+                "south": { "texture": "#workplace", "uv": [ 13, 8, 15, 9 ] },
+                "west": { "texture": "#workplace", "uv": [ 15, 9, 16, 12 ], "rotation": 90 },
+                "up": { "texture": "#workplace", "uv": [ 13, 13, 15, 16 ] },
+                "down": { "texture": "#workplace", "uv": [ 13, 9, 15, 12 ] }
+            }
+        },
+        {
+            "name": "stand_base",
+            "from": [ 5, 0, 1 ], 
+            "to": [ 11, 1, 5 ], 
+            "faces": {
+                "north": { "texture": "#workplace_monitor", "uv": [ 4, 14, 10, 15 ] },
+                "east": { "texture": "#workplace_monitor", "uv": [ 1, 10, 2, 14 ], "rotation": 90 },
+                "south": { "texture": "#workplace_monitor", "uv": [ 4, 9, 10, 10 ] },
+                "west": { "texture": "#workplace_monitor", "uv": [ 12, 10, 13, 14 ] },
+                "up": { "texture": "#workplace_monitor", "uv": [ 4, 10, 10, 14 ] },
+                "down": { "texture": "#workplace_monitor", "uv": [ 4, 10, 10, 14 ] }
+            }
+        },
+        {
+            "name": "stand",
+            "from": [ 7, 1, 2 ], 
+            "to": [ 9, 8, 4 ], 
+            "faces": {
+                "north": { "texture": "#workplace_monitor", "uv": [ 14, 0, 16, 7 ] },
+                "east": { "texture": "#workplace_monitor", "uv": [ 14, 9, 16, 16 ] },
+                "south": { "texture": "#workplace_monitor", "uv": [ 14, 0, 16, 7 ] },
+                "west": { "texture": "#workplace_monitor", "uv": [ 14, 9, 16, 16 ] },
+                "up": { "texture": "#workplace_monitor", "uv": [ 14, 7, 16, 9 ] }
+            }
+        },
+        {
+            "name": "screen_main",
+            "from": [ 1, 2, 4 ], 
+            "to": [ 15, 10, 5 ], 
+            "rotation": { "origin": [ 8, 6, 4 ], "axis": "x", "angle": -22.5 },
+            "faces": {
+                "north": { "texture": "#workplace_monitor", "uv": [ 0, 8, 14, 16 ] },
+                "east": { "texture": "#workplace_monitor", "uv": [ 13, 0, 14, 8 ] },
+                "south": { "texture": "#workplace_monitor", "uv": [ 0, 0, 14, 8 ] },
+                "west": { "texture": "#workplace_monitor", "uv": [ 0, 0, 1, 8 ] },
+                "up": { "texture": "#workplace_monitor", "uv": [ 0, 0, 14, 1 ] },
+                "down": { "texture": "#workplace_monitor", "uv": [ 0, 7, 14, 8 ] }
+            }
+        },
+        {
+            "name": "screen_back",
+            "from": [ 3, 3, 3 ], 
+            "to": [ 13, 9, 4 ], 
+            "rotation": { "origin": [ 8, 6, 4 ], "axis": "x", "angle": -22.5 },
+            "faces": {
+                "north": { "texture": "#workplace_monitor", "uv": [ 1, 9, 11, 15 ] },
+                "east": { "texture": "#workplace_monitor", "uv": [ 0, 9, 1, 15 ] },
+                "south": { "texture": "#workplace_monitor", "uv": [ 1, 9, 11, 15 ] },
+                "west": { "texture": "#workplace_monitor", "uv": [ 13, 9, 14, 15 ] },
+                "up": { "texture": "#workplace_monitor", "uv": [ 2, 8, 12, 9 ], "rotation": 180 },
+                "down": { "texture": "#workplace_monitor", "uv": [ 2, 15, 12, 16 ] }
+            }
+        }
+    ]
+}

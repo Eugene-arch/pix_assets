@@ -1,0 +1,4 @@
+$body amped/toxtricity.bmd
+$anim walk amped/walk.bmd
+$anim idle amped/idle.bmd
+$scale 1.5

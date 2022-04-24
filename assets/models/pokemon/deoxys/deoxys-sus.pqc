@@ -1,0 +1,5 @@
+$body sus/deoxsus.bmd
+$anim idle sus/idle.bmd
+$anim walk sus/walk.bmd
+$anim fly sus/fly.bmd
+$scale 1.5

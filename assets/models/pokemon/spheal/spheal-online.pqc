@@ -1,0 +1,4 @@
+$body christmass/christmas_spheal.bmd
+$anim walk christmass/walk.bmd
+$anim idle christmass/idle.bmd
+$scale 1.12
