@@ -371,5 +371,93 @@
     "Rest",
     "Attract"
   ],
-  "forms": {}
+  "forms": {
+    "1": {
+      "form": 3,
+      "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defence": 123,
+        "Speed": 80,
+        "SpecialAttack": 122,
+        "SpecialDefence": 120
+      },
+	  "types": [
+        "Dark",
+        "Poison"
+    ],
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:water_stone"
+          },
+          "to": {
+            "name": "Overqwil",
+            "form": 0
+          },
+          "conditions": [],
+          "evoType": "interact",
+          "moves": []
+        }
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Poison Sting"
+        ],
+        "5": [
+          "Spikes"
+        ],
+        "9": [
+          "Pin Missile"
+        ],
+        "15": [
+          "Barb Barrage"
+        ],
+        "21": [
+          "Water Pulse"
+        ],
+        "26": [
+          "Dark Pulse"
+        ],
+        "29": [
+          "Poison Jab"
+        ],
+        "37": [
+          "Aqua Tail"
+        ],
+        "47": [
+          "Double-Edge"
+        ],
+        "57": [
+          "Self-Destruct"
+        ]
+      },
+      "tutorMoves": [
+        "Aqua Tail",
+		"Dark Pulse",
+		"Ice Ball",
+		"Ice Beam",
+		"Icy Wind",
+		"Poison Jab",
+		"Rest",
+		"Shadow Ball",
+		"Sludge Bomb",
+		"Spikes",
+		"Swift",
+		"Water Pulse"
+      ],
+      "eggMoves": [],
+      "transferMoves": [],
+      "hmMoves": [],
+      "trMoves": [],
+      "tmMoves8": [],
+      "tmMoves7": [],
+      "tmMoves6": [],
+      "tmMoves5": [],
+      "tmMoves4": [],
+      "tmMoves3": [],
+      "tmMoves2": [],
+      "tmMoves1": []
+    }
+  }
 }

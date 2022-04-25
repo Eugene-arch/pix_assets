@@ -326,5 +326,78 @@
     "Rock Smash",
     "Snarl"
   ],
-  "forms": {}
+  "forms": {
+    "1": {
+      "form": 3,
+      "stats": {
+        "HP": 35,
+        "Attack": 60,
+        "Defence": 40,
+        "Speed": 70,
+        "SpecialAttack": 85,
+        "SpecialDefence": 40
+      },
+	  "Weight": 73,
+	  "types": [
+        "Normal",
+        "Ghost"
+    ],
+      "preEvolutions": [
+        "Zorua f:3"
+    ],
+      "levelUpMoves": {
+        "1": [
+          "Shadow Sneak"
+        ],
+        "6": [
+          "Snarl"
+        ],
+        "11": [
+          "Swift"
+        ],
+        "18": [
+          "Bitter Malice"
+        ],
+        "25": [
+          "Slash"
+        ],
+        "34": [
+          "Shadow Claw"
+        ],
+        "43": [
+          "Nasty Plot"
+        ],
+		"52": [
+		  "Extrasensory"
+		]
+      },
+      "tutorMoves": [
+        "Aerial Ace",
+		"Calm Mind",
+		"Dark Pulse",
+		"Flamethrower",
+		"Giga Impact",
+		"Hyper Beam",
+		"Ominous Wind",
+		"Rest",
+		"Shadow Ball",
+		"Shadow Claw",
+		"Sludge Bomb",
+		"Snarl",
+		"Swift"
+      ],
+      "eggMoves": [],
+      "transferMoves": [],
+      "hmMoves": [],
+      "trMoves": [],
+      "tmMoves8": [],
+      "tmMoves7": [],
+      "tmMoves6": [],
+      "tmMoves5": [],
+      "tmMoves4": [],
+      "tmMoves3": [],
+      "tmMoves2": [],
+      "tmMoves1": []
+    }
+  }
 }

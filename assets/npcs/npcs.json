@@ -498,6 +498,42 @@
   },
   "shopKeepers": [
     {
+      "name": "boostershop"
+    },
+	{
+      "name": "cardshop1"
+    },
+	{
+      "name": "cardshop2"
+    },
+	{
+      "name": "cardshop3"
+    },
+	{
+      "name": "cardshop4"
+    },
+	{
+      "name": "cardshop5"
+    },
+	{
+      "name": "cardshop6"
+    },
+	{
+      "name": "cardshop7"
+    },
+	{
+      "name": "cardshop8"
+    },
+	{
+      "name": "cardshop9"
+    },
+	{
+      "name": "cardshop10"
+    },
+	{
+      "name": "cardshop11"
+    },
+    {
       "name": "pokemartmain1"
     },
     {
@@ -514,6 +550,9 @@
     },
     {
       "name": "pokemartsecond3"
+    },
+	{
+      "name": "pokemartsecond4"
     },
     {
       "name": "spawn1"

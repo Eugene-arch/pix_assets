@@ -2820,7 +2820,9 @@ item.clear_bell.tooltip=은은하게 울리는 아주 오래된 방울.
 tile.clear_bell.tooltip=은은하게 울리는 아주 오래된 방울.
 tile.mailbox.name=우편함
 
+entity.Den.name=굴
 entity.Wormhole.name=울트라홀
+entity.PixelmonPainting.name=픽셀몬 액자
 entity.Pokestop.name=포켓스탑
 
 pixelmon.creativetab.pokeloot=포켓루트
@@ -6411,6 +6413,8 @@ pixelmon.wurmple.name=개무소
 pixelmon.wurmple.description=새 포켓몬에게 자주 표적이 되지만 엉덩이의 가시에서 독을 내서 필사적으로 저항한다.
 pixelmon.wynaut.name=마자
 pixelmon.wynaut.description=동료들과 밀어내기 놀이를 하면서 인내심이 강한 성격으로 자란다. 달콤한 과일을 매우 좋아한다.
+pixelmon.wyrdeer.name=신비록
+pixelmon.wyrdeer.description=눈에 보이지 않는 벽을 만들어 낼 때 검은 구슬이 신비하게 빛난다. 떨어진 수염은 따뜻해서 겨울옷의 귀중한 재료가 된다.
 pixelmon.xatu.name=네이티오
 pixelmon.xatu.description=과거와 미래를 내다볼 수 있다. 매일 태양의 움직임을 바로보고 있는 이상한 포켓몬이다.
 pixelmon.xerneas.name=제르네아스
@@ -6866,8 +6870,8 @@ pixelmon.xerneas.form.neutral_creator=크리에이터 릴렉스모드
 pixelmon.xerneas.form.active_creator=크리에이터 액티브모드
 pixelmon.zarude.form.ordinary=평범한모습
 pixelmon.zarude.form.dada=아빠
-pixelmon.zygarde.form.fifty_percent=50%
-pixelmon.zygarde.form.ten_percent=10%
+pixelmon.zygarde.form.fifty_percent=50%%
+pixelmon.zygarde.form.ten_percent=10%%
 pixelmon.zygarde.form.complete=퍼펙트폼
 
 pixelmon.hero_duo.form.hero=역전의 용사
@@ -6995,6 +6999,7 @@ pixelmon.season.form.winter=겨울
 pixelmon.generic.form.normal=일반
 pixelmon.generic.form.alolan=알로라
 pixelmon.generic.form.galarian=가라르
+pixelmon.generic.form.hisuian=히스이
 #Command stuff
 
 pixelmon.command.battle.battlebetween=%s 와 %s의 배틀이 시작되었다!
@@ -11447,9 +11452,9 @@ ribbon.oa10712.title=%s the Scattered
 ribbon.jay113355.description=A mark for encountering Jay113355.
 ribbon.jay113355.name=Adventurer's Mark
 ribbon.jay113355.title=%s the Adventurer
-ribbon.rasgnarok.description=A mark for encountering Rasgnarok.
-ribbon.rasgnarok.name=Ras' Mark
-ribbon.rasgnarok.title=%s, Mother of Pixelmon
+ribbon.ras.description=A mark for encountering Rasgnarok.
+ribbon.ras.name=Ras' Mark
+ribbon.ras.title=%s, Mother of Pixelmon
 ribbon.isi.description=A mark for encountering Isi.
 ribbon.isi.name=Mark of Isi
 ribbon.isi.title=%s, the Legend

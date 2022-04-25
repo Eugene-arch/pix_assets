@@ -54,6 +54,25 @@
         ]
       },
       "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Basculin",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 22,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "river",
+          "land_of_lakes"
+        ]
+      },
+      "rarity": 5.0
     }
   ]
 }

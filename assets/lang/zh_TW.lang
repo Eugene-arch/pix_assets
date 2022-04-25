@@ -3,7 +3,7 @@
 #協助翻譯人員 CHI(PurelyCHI)
 #協助翻譯人員 星靈(KhaZix666)
 #協助翻譯人員 果果(LuGuoGuo)
-#本語言文件的最後一次更新由 GT86 在 2022/03/21
+#本語言文件的最後一次更新由 GT86 在 2022/03/29
 #
 
 #PARSE_ESCAPES					  
@@ -165,7 +165,7 @@ item.dusk_ball.tooltip=可以用來收服寶可夢 \n在夜晚或洞窟等陰暗
 item.park_ball.name=公園球
 item.park_ball.tooltip=可以用來收服寶可夢 \n永遠不會失敗
 item.quick_ball.name=先機球
-item.quick_ball.tooltip=可以用來收服寶可夢 \n在對戰在對戰開始後立刻使用，就會 5x 捕獲率捉到寶可夢
+item.quick_ball.tooltip=可以用來收服寶可夢 \n在對戰開始後立刻使用，就會 5x 捕獲率捉到寶可夢
 item.lure_ball.name=誘餌球
 item.lure_ball.tooltip=可以用來收服寶可夢 \n5x 捕獲率能捉到用釣竿釣上來的寶可夢
 item.sport_ball.name=競賽球
@@ -1224,9 +1224,9 @@ item.hourglass_gold.name=Isi的金製沙漏
 item.hourglass_gold.tooltip=可在牧場機組上使用的一次性道具，可以讓目前培育中的寶可夢進入下個階段\n它不會影響對環境不滿意的寶可夢
 item.hourglass_silver.name=Isi的銀製沙漏
 item.hourglass_silver.tooltip=可在牧場機組上使用的一次性道具，可以加快目前培育中的寶可夢進入下個階段\n它不會影響對環境不滿意的寶可夢
-item.lens_gold.name=Hiroku的金製鏡片
+item.lens_gold.name=Rasgnarok的金製鏡片
 item.lens_gold.tooltip=右鍵點擊野生寶可夢會顯示寶可夢資訊\n顯示出寶可夢特性、性格、IV、性別\n可以使用5次
-item.lens_silver.name=Hiroku的銀製鏡片
+item.lens_silver.name=Rasgnarok的銀製鏡片
 item.lens_silver.tooltip=右鍵點擊野生寶可夢會顯示寶可夢資訊\n顯示出寶可夢特性、性格、IV、性別\n可以使用2次
 item.lens.used=%s的相關資訊已經被檢測出來！
 item.pixelmon_sprite.name=照片
@@ -10441,7 +10441,7 @@ pixelmon.effect.mysteriousaircurrent=出現了一股神祕的氣流！
 pixelmon.effect.mysteriousaircurrentfaded=神秘的汽流消失了。
 pixelmon.effect.sacredash=你隊伍裡的寶可夢已經完全治癒！
 pixelmon.effect.resetstats=%s減少的狀態已回復。
-pixelmon.effect.courtchange=%s swapped the battle effects affecting each side of the field!
+pixelmon.effect.courtchange=%s交換了場地的效果！
 
 
 pixelmon.effect.wildfire.user=對手的寶可夢已被火焰包圍！

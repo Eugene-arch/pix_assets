@@ -15,7 +15,7 @@
   "spawnLevel": 33,
   "spawnLevelRange": 14,
   "baseExp": 64,
-  "baseFriendship": 0,
+  "baseFriendship": 70,
   "types": [
     "Poison",
     "Water"

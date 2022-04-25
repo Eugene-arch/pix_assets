@@ -10,6 +10,8 @@
   "makesContact": false,
   "effects": [
     {
+      "basePower": 65,
+      "statusPower": 130,
       "modifiers": [],
       "persists": false,
       "effectTypeID": "Hex"

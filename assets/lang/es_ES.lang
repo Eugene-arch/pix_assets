@@ -4,7 +4,7 @@
 # Spanish translators: Original translator: 'Arvid6'
 # Current translators: 'Arvid6' , 'fapdos' , 'Bayo'
 # Spanish translator (contributor): 'Wirlie'
-# Last Update: December 15th, 2021 - by arvid6
+# Last Update: April 17th, 2022 - by arvid6
 #
 
 
@@ -13,7 +13,7 @@
 # Traductor de español (Traductor original): 'Arvid6'
 # Traductores actuales: 'Arvid6' , 'fapdos' , 'Bayo'
 # Traductor de español (contribuidor): 'Wirlie'
-# Última actualización: 15 de diciembre de 2021 por arvid6
+# Última actualización: 17 de abril de 2022 por arvid6
 #
 
 
@@ -479,11 +479,17 @@ item.zinc.tooltip=Aumenta los EVs de Defensa Especial de un Pokémon en 10. Se p
 item.carbos.name=Carburante
 item.carbos.tooltip=Aumenta los EVs de Velocidad de un Pokémon en 10. Se puede obtener combinando una pluma ímpetu y 10 bayas aslac en el infusor.
 item.health_wing.name=Ala vigor
+item.health_wing.tooltip=Aumenta en 1 los EVs de los PS de un Pokémon.
 item.muscle_wing.name=Ala músculo
+item.muscle_wing.tooltip=Aumenta en 1 los EVs de Ataque de un Pokémon.
 item.resist_wing.name=Ala aguante
+item.resist_wing.tooltip=Aumenta en 1 los EVs de Defensa de un Pokémon.
 item.genius_wing.name=Ala intelecto
+item.genius_wing.tooltip=Aumenta en 1 los EVs de Ataque Especial de un Pokémon.
 item.clever_wing.name=Ala mente
+item.clever_wing.tooltip=Aumenta en 1 los EVs de Defensa Especial de un Pokémon.
 item.swift_wing.name=Ala ímpetu
+item.swift_wing.tooltip=Aumenta en 1 los EVs de Velocidad de un Pokémon.
 item.pretty_wing.name=Ala bella
 item.pretty_wing.tooltip=Se puede vender a los comerciantes.
 item.silver_wing.name=Ala plateada
@@ -1199,10 +1205,10 @@ item.hourglass_gold.name=Reloj de Arena dorado de Isi
 item.hourglass_gold.tooltip=Objeto de un solo uso que puede ser usado en un bloque de crianza, permitiendo a los Pokémon que actualmente se encuentran en el proceso de crianza avanzar en una etapa de afectividad. No tendrá efecto en los Pokémon que no están satisfechos con el entorno.
 item.hourglass_silver.name=Reloj de Arena plateado de Isi
 item.hourglass_silver.tooltip=Objeto de un solo uso que hace avanzar una etapa en la crianza de un Pokémon. No funcionará si los Pokémon no están satisfechos con el entorno que les rodea.
-item.lens_gold.name=Lente dorada de Hiroku
+item.lens_gold.name=Lente dorada de Rasgnarok
 item.lens_gold.tooltip=Objeto que muestra la Habilidad, Naturaleza, IVs y Género de un Pokémon al hacer clic derecho en el Pokémon con el objeto en mano. Se puede usar hasta 5 veces.
-item.lens_silver.name=Lente plateada de Hiroku
-item.lens_silver.tooltip=Objeto que muestra la Habilidad, Naturaleza, IVs y Género de un Pokémon al hacer clic derecho en el Pokémon con el objeto en mano. Se puede usar hasta 2 veces.
+item.lens_silver.name=Lente plateada de Rasgnarok
+item.lens_silver.tooltip=Objeto que muestra la Habilidad, Naturaleza, IVs y Género de un Pokémon al hacer clic derecho en el Pokémon con el objeto en mano. Se puede usar 1 vez.
 item.lens.used=¡Los atributos de %s fueron revelados!
 item.pixelmon_sprite.name=Foto
 item.PixelmonSprite.name=Foto
@@ -6139,6 +6145,8 @@ pixelmon.wurmple.name=Wurmple
 pixelmon.wurmple.description=Es el blanco favorito de muchos Pokémon pájaro. Se defiende con el veneno de las púas de su cola.
 pixelmon.wynaut.name=Wynaut
 pixelmon.wynaut.description=Se fortalecen empujándose unos a otros en grupos. Les encantan los dulces.
+pixelmon.wyrdeer.name=Wyrdeer
+pixelmon.wyrdeer.description=Sus orbes negros brillan con un fulgor misterioso cuando erige muros invisibles. El pelaje que se desprende de sus barbas es muy codiciado para crear cálidos ropajes para el invierno.
 pixelmon.xatu.name=Xatu
 pixelmon.xatu.description=Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.
 pixelmon.xerneas.name=Xerneas
@@ -6513,6 +6521,7 @@ pixelmon.deoxys.form.normal=Normal
 pixelmon.deoxys.form.attack=Ataque
 pixelmon.deoxys.form.defense=Defensa
 pixelmon.deoxys.form.speed=Velocidad
+pixelmon.deoxys.form.sus=Sus
 pixelmon.eiscue.form.ice_face=Cara de Hielo
 pixelmon.eiscue.form.noice_face=Cara Deshielo
 pixelmon.eternatus.form.ordinary=Ordinaria
@@ -6921,6 +6930,7 @@ pixelmon.season.form.winter=Invierno
 pixelmon.generic.form.normal=Ninguna
 pixelmon.generic.form.alolan=De Alola
 pixelmon.generic.form.galarian=De Galar
+pixelmon.generic.form.hisuian=De Hisui
 
 #Command stuff
 
@@ -7164,6 +7174,9 @@ pixelmon.interaction.kyurem.notfound=¡No tienes ningún Pokémon que puedas fus
 pixelmon.interaction.calyrex.notfound=¡No tienes ningún Pokémon que %s pueda montar!
 pixelmon.interaction.periloussoup.success=¡La sopa hizo que %s pierda todos sus puntos de esfuerzo!
 pixelmon.interaction.periloussoup.failure=¡Los puntos de esfuerzo de %s no pueden disminuir más!
+pixelmon.interaction.shake=¡La amistad de %s aumentó!
+pixelmon.interaction.shake.fail=¡%s ya tiene la amistad al máximo!
+pixelmon.interaction.juice=¡%s aumentó el/la %s!
 
 pixelmon.general.noeffect=¡No tuvo ningún efecto!
 pixelmon.general.needop=Necesitas ser Operador (OP) o tener permisos para realizar esta acción.
@@ -7185,6 +7198,7 @@ pixelmon.npc.relearnerfull=¡No se puede añadir más este objeto!
 pixelmon.npc.relearnercost=Necesito un(a) %s (x%d) por mi servicio.
 
 pixelmon.npc.tutorname=Tutor de Movs.
+pixelmon.npc.tutor.nopokemon=¡No tienes ningún Pokémon al que pueda enseñar!
 pixelmon.npc.cantpay=¡No tienes suficiente para aprender este movimiento!
 
 pixelmon.npc.transfername=Tutor de transferencia
@@ -8790,7 +8804,20 @@ npc.shopkeeper.pokemartmain3=Vendedor Principal 3
 npc.shopkeeper.pokemartsecond1=Vendedor Secundario 1
 npc.shopkeeper.pokemartsecond2=Vendedor Secundario 2
 npc.shopkeeper.pokemartsecond3=Vendedor Secundario 3
+npc.shopkeeper.pokemartsecond4=Vendedor Secundario 3
 npc.shopkeeper.spawn1=Spawn 1
+npc.shopkeeper.boostershop=Tienda de artículos
+npc.shopkeeper.cardshop1=Tienda de cartas 1
+npc.shopkeeper.cardshop2=Tienda de cartas 2
+npc.shopkeeper.cardshop3=Tienda de cartas 3
+npc.shopkeeper.cardshop4=Tienda de cartas 4
+npc.shopkeeper.cardshop5=Tienda de cartas 5
+npc.shopkeeper.cardshop6=Tienda de cartas 6
+npc.shopkeeper.cardshop7=Tienda de cartas 7
+npc.shopkeeper.cardshop8=Tienda de cartas 8
+npc.shopkeeper.cardshop9=Tienda de cartas 9
+npc.shopkeeper.cardshop10=Tienda de cartas 10
+npc.shopkeeper.cardshop11=Tienda de cartas 11
 
 container.MechanicalAnvil=Yunque Mecánico
 container.infuser=Infusor
@@ -9351,7 +9378,9 @@ item.clear_bell.tooltip=Cascabel antiguo que emite un breve y suave tintineo.
 tile.clear_bell.tooltip=Cascabel antiguo que emite un breve y suave tintineo.
 tile.mailbox.name=Buzón
 
+entity.Den.name=Nido
 entity.Wormhole.name=Ultraumbral
+entity.PixelmonPainting.name=Cuadro de Pixelmon
 entity.Pokestop.name=Poképarada
 
 tile.deep_sea.name=Cristal del Ultraabismo
@@ -10025,7 +10054,7 @@ pixelmon.effect.becameconfused=¡%s está confuso!
 pixelmon.effect.alreadyconfused=¡%s ya está confuso!
 pixelmon.effect.bounce=¡%s dio un salto tremendo!
 pixelmon.effect.meteorbeam=¡%s comenzó a cargar!
-pixelmon.effect.razorwind=¡%s desató un fuerte viento!
+pixelmon.effect.razorwind=¡%s desató un fuerte vendaval!
 pixelmon.effect.skyattack=¡%s está rodeado de una luz brillante!
 pixelmon.effect.thrash=¡%s está confuso debido a su fatiga!
 pixelmon.effect.accuracyincreased=¡La Precisión de %s aumentó!
@@ -10071,8 +10100,8 @@ pixelmon.effect.spdefdecreased3=¡La Defensa Esp. de %s ha disminuido drásticam
 pixelmon.effect.speedincreased3=¡La Velocidad de %s aumentó drásticamente!
 pixelmon.effect.speeddecreased3=¡La Velocidad de %s ha disminuido drásticamente!
 pixelmon.effect.critincreased=¡%s se está preparando para la batalla!
-pixelmon.effect.zcritincreased=%s boosted its critical-hit ratio using its Z-Power!
-pixelmon.effect.laserfocus=%s concentrated intensely!
+pixelmon.effect.zcritincreased=¡%s aumentó la probabilidad de asestar un golpe crítico usando el Poder Z!
+pixelmon.effect.laserfocus=¡%s se está concentrando!
 pixelmon.effect.accuracytoohigh=¡La Precisión de %s no puede aumentar más!
 pixelmon.effect.accuracytoolow=¡La Precisión de %s no puede disminuir más!
 pixelmon.effect.evasiontoohigh=¡La Evasión de %s no puede aumentar más!
@@ -10120,7 +10149,7 @@ pixelmon.effect.wrapped=¡%s fue atrapado por %s!
 pixelmon.effect.vortex=¡%s está atrapado en un vórtice!
 pixelmon.effect.alreadypoisoned=¡%s ya está envenenado!
 pixelmon.effect.poisoned=¡%s está envenenado!
-pixelmon.effect.badlypoisoned=¡%s ha sido envenenado gravemente!
+pixelmon.effect.badlypoisoned=¡%s está gravemente envenenado!
 pixelmon.effect.redaying=¡%s se está protegiendo!
 pixelmon.effect.dynamaxprotect=¡%s no pudo protegerse completamente y fue herido!
 pixelmon.effect.raining=¡Ha comenzado a llover!
@@ -10164,7 +10193,7 @@ pixelmon.effect.dive=¡%s se ha ocultado bajo el agua!
 pixelmon.effect.skillswap=%s ha intercambiado su habilidad con %s.
 pixelmon.effect.incinerate=¡La baya de %s se desintegró!
 pixelmon.effect.focuspunch=¡%s está reforzando su concentración!
-pixelmon.effect.lostfocus=¡%s perdió la concentración y no se pudo mover!
+pixelmon.effect.lostfocus=¡%s perdió la concentración y no se puede mover!
 pixelmon.effect.splash=¡Pero no tuvo ningún efecto!
 pixelmon.effect.recycle=%s ha recuperado %s.
 pixelmon.effect.psychoshift=¡%s ha transferido su estado a %s!
@@ -10177,7 +10206,7 @@ pixelmon.effect.heartswap=¡%s intercambió todos los cambios de estado con %s!
 pixelmon.effect.speedswap=¡%s intercambió su Velocidad con %s!
 pixelmon.effect.entrainment=¡La habilidad de %s ha cambiado de %s a %s!
 pixelmon.effect.feint=¡%s eliminó la protección de %s!
-pixelmon.effect.fling=¡%s tira su %s!
+pixelmon.effect.fling=¡%s lanza su %s!
 pixelmon.effect.changetype=¡%s ha cambiado al tipo %s!
 pixelmon.effect.skydrop=¡%s se ha llevado a %s por los aires!
 pixelmon.effect.skullbash=¡%s agachó la cabeza!
@@ -10233,7 +10262,7 @@ pixelmon.status.freefromvolcalith=¡%s se liberó de Gigarroca ígnea!
 
 pixelmon.status.corrosivegas=¡El objeto que %s llevaba equipado se ha derretido por el gas corrosivo!
 pixelmon.status.ringheal=¡%s se ha curado con Acua Aro!
-pixelmon.status.burnhurt=¡%s sufrió daño debido a la quemadura!
+pixelmon.status.burnhurt=¡%s sufrió daño debido a las quemaduras!
 pixelmon.status.burn.added=¡%s fue quemado!
 pixelmon.status.confusionsnap=¡%s ya no está confundido!
 pixelmon.status.confused=%s está confundido...
@@ -10278,7 +10307,7 @@ pixelmon.status.buffetedbysandstorm=¡%s fue abofeteado por la tormenta de arena
 pixelmon.status.wokeup=¡%s se ha despertado!
 pixelmon.status.stillsleeping=¡%s está durmiendo como un tronco!
 pixelmon.status.wakesup=¡%s despertó!
-pixelmon.status.hurtbyspikes=¡%s fue herido por las púas!
+pixelmon.status.hurtbyspikes=¡%s sufre daño por las púas!
 pixelmon.status.hurtbystealthrock=¡%s está rodeado de piedras puntiagudas!
 pixelmon.status.hurtbysharpsteel=¡El acero afilado hirió a %s!
 pixelmon.status.substitutedamage=¡El sustituto recibe el daño en lugar de %s!
@@ -10805,8 +10834,8 @@ pixelmon.config.doLegendaryRaidEvent=Mostrar mensaje global de incursión legend
 pixelmon.config.doLegendaryRaidEvent.comment=Muestra el mensaje de anuncio 'Un legendario ha aparecido en un nido dinamax en un bioma de <name>' por parte del servidor cuando un legendario aparezca en uno.
 pixelmon.config.useRecentLevelMoves=Aparecer con ataques recientes
 pixelmon.config.useRecentLevelMoves.comment=Si está activado, los Pokémon aparecerán con los ataques más recientes de su lista de movimientos en relación a su nivel. Si está desactivado, los Pokémon aparecerán con ataques aleatorios de su lista de movimientos.
-pixelmon.config.caveMaxMultiplier=Cave Max Multiplier
-pixelmon.config.caveMaxMultiplier.comment=Multiplies the level of a wild Pokémon based on how far underground it spawned. Defines the highest number the multiplier can be at y = 0.
+pixelmon.config.caveMaxMultiplier=Multiplicador en cuevas
+pixelmon.config.caveMaxMultiplier.comment=Multiplica el nivel de un Pokémon salvaje en función de la distancia a la que haya aparecido bajo tierra. Establece el número máximo que puede tener el multiplicador en y = 0.
 pixelmon.config.despawnOnFleeOrLoss=Desaparecer al escapar o perder
 pixelmon.config.despawnOnFleeOrLoss.comment=Fuerza a los Pokémon salvajes a desaparecer tras un combate.
 pixelmon.config.entitiesPerPlayer=Entidades por jugador
@@ -11502,12 +11531,15 @@ ribbon.oa10712.title=%s el Dispersado
 ribbon.jay113355.description=Un emblema por encontrar a Jay113355.
 ribbon.jay113355.name=Emblema del Aventurero
 ribbon.jay113355.title=%s el Aventurero
-ribbon.rasgnarok.description=Un emblema por encontrar a Rasgnarok.
-ribbon.rasgnarok.name=Emblema de Ras
-ribbon.rasgnarok.title=%s, Madre de Pixelmon
+ribbon.ras.description=Un emblema por encontrar a Rasgnarok.
+ribbon.ras.name=Emblema de Ras
+ribbon.ras.title=%s, Madre de Pixelmon
 ribbon.isi.description=Un emblema por encontrar a Isi.
 ribbon.isi.name=Emblema de Isi
 ribbon.isi.title=%s, la Leyenda
+ribbon.ribchop.description=Un emblema por encontrar a Ribchop.
+ribbon.ribchop.name=Emblema de Ribchop
+ribbon.ribchop.title=%s, el Shiba
 
 advancements.ball_capture.title=Vale, una por la Recompensa
 advancements.ball_capture.description=Captura un Pokémon con una Poké Ball.

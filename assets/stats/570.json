@@ -294,5 +294,79 @@
     "Substitute",
     "Snarl"
   ],
-  "forms": {}
+  "forms": {
+    "1": {
+      "form": 3,
+      "stats": {
+        "HP": 35,
+        "Attack": 60,
+        "Defence": 40,
+        "Speed": 70,
+        "SpecialAttack": 85,
+        "SpecialDefence": 40
+      },
+	  "types": [
+        "Normal",
+        "Ghost"
+    ],
+      "evolutions": [
+        {
+          "level": 30,
+          "to": {
+            "name": "Zoroark",
+            "form": 3
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": []
+        }
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Shadow Sneak"
+        ],
+        "6": [
+          "Snarl"
+        ],
+        "11": [
+          "Swift"
+        ],
+        "18": [
+          "Bitter Malice"
+        ],
+        "25": [
+          "Slash"
+        ],
+        "34": [
+          "Shadow Claw"
+        ],
+        "43": [
+          "Nasty Plot"
+        ]
+      },
+      "tutorMoves": [
+        "Aerial Ace",
+		"Calm Mind",
+		"Dark Pulse",
+		"Rest",
+		"Shadow Ball",
+		"Shadow Claw",
+		"Sludge Bomb",
+		"Snarl",
+		"Swift"
+      ],
+      "eggMoves": [],
+      "transferMoves": [],
+      "hmMoves": [],
+      "trMoves": [],
+      "tmMoves8": [],
+      "tmMoves7": [],
+      "tmMoves6": [],
+      "tmMoves5": [],
+      "tmMoves4": [],
+      "tmMoves3": [],
+      "tmMoves2": [],
+      "tmMoves1": []
+    }
+  }
 }

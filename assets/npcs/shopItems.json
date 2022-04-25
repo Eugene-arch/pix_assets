@@ -3877,6 +3877,256 @@
       "name": "pixelmon:shoal_shell",
       "sell": 10
     },
+	{
+      "name": "tcg:blank_card.grass.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.grass.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.grass.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.grass.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.grass.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.fire.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.fire.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.fire.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.fire.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.fire.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.water.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.water.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.water.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.water.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.water.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.lightning.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.lightning.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.lightning.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.lightning.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.lightning.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.fighting.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.fighting.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.fighting.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.fighting.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.fighting.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.psychic.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.psychic.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.psychic.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.psychic.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.psychic.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.colorless.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.colorless.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.colorless.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.colorless.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.colorless.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.darkness.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.darkness.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.darkness.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.darkness.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.darkness.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.metal.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.metal.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.metal.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.metal.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.metal.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.dragon.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.dragon.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.dragon.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.dragon.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.dragon.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "name": "tcg:blank_card.fairy.common",
+	  "buy": 100
+    },
+	{
+      "name": "tcg:blank_card.fairy.uncommon",
+	  "buy": 500
+    },
+	{
+      "name": "tcg:blank_card.fairy.rare",
+	  "buy": 1000
+    },
+	{
+      "name": "tcg:blank_card.fairy.holo_rare",
+	  "buy": 2500
+    },
+	{
+      "name": "tcg:blank_card.fairy.ultra_rare",
+	  "buy": 5000
+    },
+	{
+      "id": "Base Booster Pack",
+      "name": "tcg:pack",
+      "nbtData": "{setID:1,Weight:0.5f}",
+      "buy": 10000
+    },
+	{
+      "id": "Jungle Booster Pack",
+      "name": "tcg:pack",
+      "nbtData": "{setID:2,Weight:0.5f}",
+      "buy": 15000
+    },
+	{
+      "id": "Fossil Booster Pack",
+      "name": "tcg:pack",
+      "nbtData": "{setID:3,Weight:0.5f}",
+      "buy": 20000
+    },
+	{
+      "id": "Team Rocket Booster Pack",
+      "name": "tcg:pack",
+      "nbtData": "{setID:4,Weight:0.5f}",
+      "buy": 25000
+    },
+	{
+      "id": "Wizards Black Coast Booster Pack",
+      "name": "tcg:pack",
+      "nbtData": "{setID:1000,Weight:0.5f}",
+      "buy": 30000
+    },
     {
       "name": "pixelmon:orb"
     },

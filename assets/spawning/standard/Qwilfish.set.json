@@ -32,6 +32,34 @@
     {
       "spec": {
         "name": "Qwilfish",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ],
+        "maxY": 50
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Qwilfish",
         "form": 102
       },
       "stringLocationTypes": [

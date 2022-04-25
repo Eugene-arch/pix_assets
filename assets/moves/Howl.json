@@ -12,7 +12,7 @@
     {
       "type": "Attack",
       "amount": 1,
-      "isUser": true,
+      "isUser": false,
       "modifiers": [],
       "persists": false,
       "effectTypeID": "StatsEffect"
@@ -22,7 +22,7 @@
     "leapForward"
   ],
   "targetingInfo": {
-    "hitsAll": false,
+    "hitsAll": true,
     "hitsOppositeFoe": false,
     "hitsAdjacentFoe": false,
     "hitsExtendedFoe": false,
@@ -39,7 +39,7 @@
 		{
 		  "type": "Attack",
 		  "amount": 1,
-		  "isUser": true,
+		  "isUser": false,
 		  "modifiers": [],
 		  "persists": false,
 		  "effectTypeID": "StatsEffect"
